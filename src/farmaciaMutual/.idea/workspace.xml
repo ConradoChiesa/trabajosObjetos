@@ -1,0 +1,280 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d5aae3ae-27ca-48cc-9717-2710f5b8f816" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../../.idea/libraries/Arquillian_JUnit_Release.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Agenda/Agenda.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Agenda/Contacto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AlmacenBebidas/Almacen.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AlmacenBebidas/Bebida.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AlmacenBebidas/BebidaAzucarada.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AlmacenBebidas/Simulador.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PacienteAlergico.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Prueba/Simulador.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SistElectoral/Candidato.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SistElectoral/LugarAbs.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SistElectoral/LugarDeVotacion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SistElectoral/Mesa.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SistElectoral/Padron.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SistElectoral/Sistema.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SistElectoral/Votante.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SistElectoral/Voto.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../out/production/prog2/Avicola/CongAgua.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../out/production/prog2/Avicola/CongAire.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../out/production/prog2/Avicola/CongNitro.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../out/production/prog2/Avicola/Congelado.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../out/production/prog2/Avicola/Fresco.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../out/production/prog2/Avicola/Producto.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../out/production/prog2/CoopCereales/Cereal.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../out/production/prog2/CoopCereales/CoopCereales.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../out/production/prog2/CoopCereales/Lote.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../out/production/prog2/CoopCereales/Pastura.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../out/production/prog2/Escuela/Alumno.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../out/production/prog2/Escuela/Aula.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../out/production/prog2/Escuela/Constantes.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../out/production/prog2/Escuela/Persona.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../out/production/prog2/Escuela/Profesor.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../out/production/prog2/Escuela/Sueltos.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../out/production/prog2/FarmaciaMutual/Farmacia.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../out/production/prog2/FarmaciaMutual/Medicamento.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../out/production/prog2/FarmaciaMutual/Paciente.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../out/production/prog2/FarmaciaMutual/PacienteObraSocial.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../out/production/prog2/FarmaciaMutual/PacienteSinCobertura.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../out/production/prog2/FarmaciaMutual/cobertura.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../out/production/prog2/Parcialito1/CentroComputos.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../out/production/prog2/Parcialito1/Computadora.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../out/production/prog2/Parcialito1/Simulador.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../out/production/prog2/Parcialito1/Tarea.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../out/production/prog2/Parcialito2/General.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../out/production/prog2/Parcialito2/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../out/production/prog2/Parcialito2/PrimerNivelA.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../out/production/prog2/Parcialito2/PrimerNivelB.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../out/production/prog2/Parcialito2/SegundoNivelA.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../out/production/prog2/Parcialito2/SegundoNivelB.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../out/production/prog2/SeleccionFutbol/Entrenador.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../out/production/prog2/SeleccionFutbol/Futbolista.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../out/production/prog2/SeleccionFutbol/Integrante.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../out/production/prog2/SeleccionFutbol/Masajista.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../out/production/prog2/Sueldos/Empleado.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../out/production/prog2/Sueldos/EmpleadoComision.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../out/production/prog2/Sueldos/EmpleadoContrat.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../out/production/prog2/Sueldos/EmpleadoHorasExtra.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../out/production/prog2/Sueldos/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../out/production/prog2/Supermercado/Factura.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../out/production/prog2/Supermercado/Supermercado.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../prog2.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../prog2.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Paciente.java" beforeDir="false" afterPath="$PROJECT_DIR$/Paciente.java" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="1411481865">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="1" />
+          <entry key="project.open.time.0" value="1" />
+          <entry key="project.opened" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="java" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="JAVA" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="java" value="5" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="JAVA" value="5" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/PacienteAlergico.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="255">
+              <caret line="15" column="9" selection-start-line="15" selection-start-column="9" selection-end-line="20" selection-end-column="9" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Paciente.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="341">
+              <caret line="42" selection-start-line="42" selection-end-line="42" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Paciente.java" />
+        <option value="$PROJECT_DIR$/PacienteAlergico.java" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="174" />
+    <option name="y" value="92" />
+    <option name="width" value="1006" />
+    <option name="height" value="552" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="AndroidView" />
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="FarmaciaMutual" type="b2602c69:ProjectViewProjectNode" />
+              <item name="FarmaciaMutual" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1571203797375" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/.." />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d5aae3ae-27ca-48cc-9717-2710f5b8f816" name="Default Changelist" comment="" />
+      <created>1571203590409</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1571203590409</updated>
+      <workItem from="1571203591813" duration="8045000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="8045000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="0" width="1366" height="738" extended-state="6" />
+    <layout>
+      <window_info id="Image Layers" />
+      <window_info id="Designer" />
+      <window_info id="UI Designer" />
+      <window_info id="Capture Tool" />
+      <window_info id="Favorites" side_tool="true" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Palette" />
+      <window_info anchor="right" id="Theme Preview" />
+      <window_info anchor="right" id="Capture Analysis" />
+      <window_info anchor="right" id="Palette&#9;" />
+      <window_info anchor="right" id="Database" />
+      <window_info anchor="right" id="Maven Projects" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Paciente.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="341">
+          <caret line="42" selection-start-line="42" selection-end-line="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PacienteAlergico.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" column="9" selection-start-line="15" selection-start-column="9" selection-end-line="20" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>10</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
